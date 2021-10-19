@@ -13,7 +13,6 @@ export const styles = StyleSheet.create({
   ml: {
     color: theme.colors.blue90,
     fontSize: 48,
-    fontFamily: theme.fonts.extraBold,
     textAlign: "center",
   },
   label: {
@@ -25,7 +24,6 @@ export const styles = StyleSheet.create({
     fontSize: 112,
     color: theme.colors.blue100,
     marginTop: 50,
-    fontFamily: theme.fonts.extraBold,
   },
   cups: {
     flexDirection: "row",

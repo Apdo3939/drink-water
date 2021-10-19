@@ -7,11 +7,4 @@ export const theme = {
     blue90: "#0087dc",
     blue70: "#32BAFA",
   },
-
-  fonts: {
-    regular: "Ubuntu_400Regular",
-    medium: "Ubuntu_500Medium",
-    bold: "Ubuntu_700Bold",
-    extraBold: "Righteous_400Regular",
-  },
 };
